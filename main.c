@@ -6,6 +6,7 @@ int main()
     printf("Hello Nima");
     printf("Hello Nisma");
     printf("Hello Nisma");
+     printf("Hello Nisma");
     return 0;
 }
 //none
